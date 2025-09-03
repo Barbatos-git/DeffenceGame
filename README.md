@@ -4,4 +4,3 @@
 - ソースコードフォルダ：ソースコードファイルのまとめ
 - docs：ウェブ表示用のゲームのウェブバージョン
   - ウェブ表示URL: https://barbatos-git.github.io/DeffenceGame/
-- summaryファイル：作品の紹介と担当リスト
