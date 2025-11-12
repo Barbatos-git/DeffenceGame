@@ -4,3 +4,6 @@
 - ソースコードフォルダ：ソースコードファイルのまとめ
 - docs：ウェブ表示用のゲームのウェブバージョン
   - ウェブ表示URL: https://barbatos-git.github.io/DeffenceGame/
+- Releases: ゲーム紹介動画が含まれます
+  - URL: https://github.com/Barbatos-git/DeffenceGame/releases/tag/v1.0
+
